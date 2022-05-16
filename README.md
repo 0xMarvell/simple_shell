@@ -1,4 +1,4 @@
 # Simple Shell
 ## Authors & Copyrights
-Folorunso Olaoluwa (Excelola)
+Folorunso Olaoluwa (Excelola) AND 
 Marvellous-Chimaraoke

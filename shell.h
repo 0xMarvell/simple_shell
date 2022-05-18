@@ -3,7 +3,7 @@
 #define TRUE 1
 /*
  * File: main.h
- * Auth: Andres Ocaña - Jhojan Perlaza
+ * Auth: Marvellous Chimaraoke, Folorunso Olaoluwa Hezekiah Olaoluwa
  * Desc: Header file containing declarations for all functions
  * used in the _printf.
  */
